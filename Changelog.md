@@ -1,5 +1,5 @@
 # Simonrim Essentials Changelog
-## 1.0.2 - 20 January 2026
+## Version 1.0.2 - 20 January 2026
 
 Key Info
 
