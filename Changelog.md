@@ -1,5 +1,27 @@
 # Simonrim Essentials Changelog
 
+## Version 1.0.4 - 22 January 2026
+
+Key Info
+
+- This update is save-safe.
+
+<Details>
+<summary>Changes</summary>
+
+### Tweaked
+
+- Set "powerAttackStamina" to true in ScrambledBugs.json
+- Re-ran Nemesis to include  Dual Wield Behavior Fixes and Staff Blocking
+
+### Added
+
+- Dual Wield Behavior Fixes
+- DWBF for Perk Mods
+
+</Details>
+
+
 ## Version 1.0.3 - 20 January 2026
 
 Key Info
