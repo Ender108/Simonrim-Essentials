@@ -1,5 +1,43 @@
 # Simonrim Essentials Changelog
 
+## Version 1.1.0 - 30 January 2026
+
+Key Info
+
+- This update is NOT save-safe. The list has been slimmed down significantly.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+ - aTweaks and Utilities
+ - Conjuration Limit Fix
+ - Enhanced Reanimation
+ - Faster Reanimation - 33 Percent Faster
+
+### Removed
+
+ - Animated Static Reload Fix - NG
+ - Aurora Fix
+ - Blazing's Saints and Seducer Material Rebalance
+ - CoMAP - Common Marker Addon Project
+ - Creation Cave - Creation Club Reintegration
+ - Dragon Leveled List Fixes
+ - Fishing - Reduced Cut
+ - Gourmet - ECSS Patch
+ - Grass Sampler Fix
+ - Misc Apothecary Patches
+ - PapyrusUtil SE - Modders Scripting Utility Functions
+ - powerofthree's Papyrus Extender
+ - SaS USSEP Masterwork Joint Patch
+ - Skyrim Extended Cut - Saints and Seducers
+ - Skyrim Misc Bugfix Compilation
+
+</Details>
+
 ## Version 1.0.4 - 22 January 2026
 
 Key Info
