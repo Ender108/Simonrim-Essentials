@@ -1,5 +1,43 @@
 # Simonrim Essentials Changelog
 
+## Version 1.2.0 - 15 April 2026
+
+Key Info
+
+- This update is probably save safe, but a new game is recommended.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+- Pandora Behaviour Engine Plus
+
+### Updated
+
+- Crash Logger SSE AE VR - PDB support 1.20.1
+- EngineFixes 7.0.20
+- aTweaks and Utilities 2.2.1
+- Comprehensive Attack Rate Patch - SKSE v1.1.2.15
+- Unofficial Skyrim Special Edition Patch - USSEP 4.3.8a
+- Spell Perk Item Distributor 7.2.1
+- SkyUI 6.8
+- MCM Helper 1.6.1
+- Survival Mode Improved - SKSE 1.6.4 rc 2
+- Open Animation Replacer 3.0.2
+- No Grass In Objects 1.6.3
+
+### Removed
+
+- SkyUI - Ghost Item Bug Fix
+- Nemesis Unlimited Behavior Engine
+- Nemesis Creature Behaivour Compatiblity
+- Crusader - Faster
+
+</Details>
+
 ## Version 1.1.0 - 30 January 2026
 
 Key Info
