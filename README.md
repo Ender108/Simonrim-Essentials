@@ -1,6 +1,9 @@
 ![](https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/the-simonrim-suite-mo2-edition.webp)
 
 # Description
+The Simonrim Suite is an all-in-one installer for the entire suite of gameplay mods by Simon Magus and his team. It includes all dependencies and recommended settings, as well as a collection of critical, gameplay-oriented bug fixes.
+
+This page contains instructions on how to install the MO2 Version of The Simonrim Suite, which is designed to be used as a base for the creation of your own modlist, and contains many of the popular modding tools needed for modlist development.
 
 # Features
 - Mod Organizer 2 installation with Stock Game folder setup﻿
