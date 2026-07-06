@@ -18,7 +18,7 @@ Simonrim Essentials is a Wabbajack modlist for those who want a modlist setup bu
 
 # Installation
 1. Ensure [Visual C++ x64﻿](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) is installed. If not, download it from the link, extract the archive, and run install_all.bat as admin. Restart your PC afterwards.
-2. Ensure you have a clean, unmodified copy of Skyrim Special Edition and the Skyrim Special Edition Creation Kit installed. It must installed outside of your Program Files folders (e.g. "C:\Steam\steamapps\common\Skyrim Special Edition")
+2. Ensure you have a clean, unmodified copy of Skyrim Special Edition and the Skyrim Special Edition Creation Kit installed from Steam. It must installed outside of your Program Files folders (e.g. "C:\Steam\steamapps\common\Skyrim Special Edition")
 3. Download and install [Wabbajack](https://www.wabbajack.org/) anywhere outside of your Programs Files folders (e.g. "C:\Wabbajack"). Run Wabbajack.exe.
 4. Click Settings in the bottom left, then click Log in next to Nexus Mods. Proceed to log in and authorize.
 5. Click Browse lists, make sure Non-featured is checked, and then search Simonrim Essentials. Click on the box and then click Download & Install.
