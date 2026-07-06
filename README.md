@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/the-simonrim-suite-mo2-edition.webp)
+![](https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/simonrim-essentials-mo2-edition-main.webp)
 
 # Description
 Simonrim Essentials is an all-in-one installer for the entire suite of gameplay mods by Simon Magus and his team. It includes all dependencies and recommended settings, as well as a collection of critical, gameplay-oriented bug fixes.
