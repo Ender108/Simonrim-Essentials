@@ -7,7 +7,7 @@ This page contains instructions on how to install the MO2 Version of The Simonri
 
 # Features
 - Mod Organizer 2 installation with Stock Game folder setup﻿
-- Essential modding tools (CK Platform Extended, xEdit, Synthesis, xLODGen, DynDOLOD, NGIO, Pandora)
+- Essential modding tools (CK Platform Extended, xEdit, Synthesis, xLODGen, DynDOLOD, No Grass in Objects, Nemesis)
 - Essential SKSE plugins and bug fixes
 - SkyUI and other essential interface elements
 - Full Simonrim suite
