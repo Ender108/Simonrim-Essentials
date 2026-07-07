@@ -1,4 +1,4 @@
-# Simonrim Essentials Changelog
+# Simonrim Essentials - MO2 Edition Changelog
 
 ## 7 July 2026
 Renamed to Simonrim Essentials - MO2 Edition. The Collection of this same list can be found [here](https://www.nexusmods.com/games/skyrimspecialedition/collections/z5ju7v).
