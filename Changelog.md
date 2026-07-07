@@ -1,5 +1,60 @@
 # Simonrim Essentials Changelog
 
+## 7 July 2026
+
+## Simonrim Essentials - MO2 Edition
+
+### Added
+- Brawling - No Hitting Bystanders
+- Classic Sprinting Redone (SKSE64)
+- Crossbow Reload Speed Perk Fix
+- ECSS - Mysticism Rebalance
+- Enhanced Invisibility
+- Forget Spell
+- Optional Quick Start - SE
+- Quests Are In Skyrim
+- Radiant Requirements MCM
+- Radiant Requirements - Quests Are In Skyrim USSEP Patch
+- Ranged Block Recoil Fix
+- Skyrim Extended Cut - Saints and Seducers
+- Start Game Settings
+- Survival Control Panel
+
+### Updated
+- Apprentice - A Class Overhaul
+- DynDOLOD Resources SE Alpha-59
+- DynDOLOD DLL NG Alpha-41
+- Gourmet - A Cooking Overhaul 1.2.0
+- Journeyman - A Fast Travel Overhaul 1.2.0
+- Keyword Item Distributor 4.0.5
+- MCM Helper 1.6.2
+- No Grass In Objects 1.6.6
+- Open Animation Replacer 3.1.6
+- Pandora Behaviour Engine Plus 4.3.1beta
+- SkyUI 6.11
+- Spell Perk Item Distributor 7.3.1
+- Survival Mode Improved - SKSE 1.6.6
+
+### Removed
+- Candlehearth - Tavern AI Fix Patch
+- Clean Menu Plus
+- DWBF for Perk Mods
+- GIST - Genuinely Intelligent Soul Trap SE
+- Gourmet - Cooking Pots and Baking Ovens
+- Gourmet - Fishing Patch
+- Gourmet - Survival Patch
+- Gourmet - USSEP Patch
+- Gourmet - Simonrim Patches
+- NPC Stuck in Bleedout fix
+- Pandora Behaviour Engine Plus
+- Simonrim Beta
+- Sorcerer - GIST Patch
+- Stuck on Screen Load Door Prompt Fix
+- Tavern AI fix
+- True Directional Movement - Modernized Third Person Gameplay
+- World Encounter Hostility Fix
+- Zero Bounty Hostility Fix
+
 ## Version 1.2.0 - 15 April 2026
 
 Key Info
