@@ -1,8 +1,7 @@
 # Simonrim Essentials Changelog
 
 ## 7 July 2026
-
-## Simonrim Essentials - MO2 Edition
+Renamed to Simonrim Essentials - MO2 Edition. The Collection of this same list can be found here.
 
 ### Added
 - Brawling - No Hitting Bystanders
